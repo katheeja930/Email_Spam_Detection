@@ -47,7 +47,12 @@ The notebook includes:
 
 - Accuracy Score  
 - Classification Report  
-- Confusion Matrix Visualization  
+- Confusion Matrix Visualization
+
+## Model Implementation can be viewed here:
+```bash
+https://nbviewer.org/github/katheeja930/Email_Spam_Detection/blob/main/Spam.ipynb
+```
 
 ## ▶️ How to Run
 
